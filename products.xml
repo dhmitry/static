@@ -1,3 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <products>
+    <product>
+        <manufacturer>Coccinelle</manufacturer>
+        <sku>1</sku>
+        <title>Coccinelle TEBE - Cross body bag - warm taupe</title>
+        <price>80</price>
+        <stock>1</stock>
+        <material>
+            <outer_material>leather</outer_material>
+            <lining>cotton</lining>
+        </material>
+        <description>
+            <![CDATA[
+                Height: 13 cm (Size One Size)
+                Length: 19 cm (Size One Size)
+                Width: 6 cm (Size One Size)
+                Carrying handle: 19 cm (Size One Size)
+                Compartments: Front pocket
+                Fastening: Zip
+                Details: Buckle
+                Volume: 1 l (Size One Size)
+                Weight: 295 g
+                Carrying options: Removable cross-body strap, adjustable cross-body strap
+                Article number: CO351H1TB-B13
+            ]]>
+        </description>
+        <images>
+            <image>https://dhmitry.github.io/static/coccinelle-tebe-warm-taupe-1.jpg</image>
+            <image>https://dhmitry.github.io/static/coccinelle-tebe-warm-taupe-2.jpg</image>
+            <image>https://dhmitry.github.io/static/coccinelle-tebe-warm-taupe-3.jpg</image>
+            <image>https://dhmitry.github.io/static/coccinelle-tebe-warm-taupe-4.jpg</image>
+        </images>
+    </product>
 </products>
