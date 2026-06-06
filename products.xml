@@ -60,4 +60,34 @@
             <image>https://dhmitry.github.io/static/unitek-y-c453-1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Gembird</manufacturer>
+        <sku>CCP-USB2-AMCM-1M</sku>
+        <title>Vads Gembird Cablexpert USB 2.0 AM to Type-C CCP-USB2-AMCM-1M USB 2.0 Type-A Vīrietis, USB Type C Vīrietis, 1 m, melna krās</title>
+        <category-name><![CDATA[Datoru tehnika / Kabeļi un vadi / USB kabeļi]]></category-name>
+        <price>1.89</price>
+        <stock>1</stock>
+        <material>
+            <outer_material>PVC</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                Preces tips: Kabelis / Adapteris
+                Zīmols / Kolekcija: Gembird / Cablexpert
+                Modelis: CCP-USB2-AMCM-1M
+                Laida ilgis / Garums: 1 m
+                Krāsa: Melna
+                1. savienojums: USB 2.0 Type-A Vīrietis (Male)
+                2. savienojums: USB Type-C Vīrietis (Male)
+                Datu pārraides ātrums: līdz 480 Mbps
+                Funkcija: Ātra datu sinhronizācija un uzlāde (līdz 3A / 36W)
+                Papildus: Apzeltīti kontakti, lieti savienotāji ar aizsardzību pret locīšanu
+                EAN / Svītrkods: 8716309086547
+            ]]>
+        </description>
+        <images>
+            <image>https://www.1a.lv/images/products/gembird-ccp-usb2-amcm-1m.jpg</image>
+        </images>
+    </product>
 </products>
