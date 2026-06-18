@@ -155,7 +155,7 @@
     <product>
         <sku>5450116561</sku>
         <ean>0196237764041</ean>
-        <stock>3</stock>
+        <stock>1</stock>
         <price-before-discount_lv>329.9900</price-before-discount_lv>
         <price-after-discount_lv>265</price-after-discount_lv>
         <price-before-discount_ee>329.9900</price-before-discount_ee>
@@ -388,20 +388,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777130620</sku>
-        <ean>8721066044167</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>429.9900</price-before-discount_lv>
-        <price-after-discount_lv>349</price-after-discount_lv>
-        <price-before-discount_ee>429.9900</price-before-discount_ee>
-        <price-after-discount_ee>349</price-after-discount_ee>
-        <price-before-discount_lt>429.9900</price-before-discount_lt>
-        <price-after-discount_lt>349</price-after-discount_lt>
-        <price-before-discount_fi>429.9900</price-before-discount_fi>
-        <price-after-discount_fi>349</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777130450</sku>
         <ean>8721066044068</ean>
         <stock>1</stock>
@@ -486,20 +472,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777160042</sku>
-        <ean>1966110355074</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>449.9900</price-before-discount_lv>
-        <price-after-discount_lv>369</price-after-discount_lv>
-        <price-before-discount_ee>449.9900</price-before-discount_ee>
-        <price-after-discount_ee>369</price-after-discount_ee>
-        <price-before-discount_lt>449.9900</price-before-discount_lt>
-        <price-after-discount_lt>369</price-after-discount_lt>
-        <price-before-discount_fi>449.9900</price-before-discount_fi>
-        <price-after-discount_fi>369</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777160000</sku>
         <ean>2900011033173</ean>
         <stock>2</stock>
@@ -511,6 +483,20 @@
         <price-after-discount_lt>225.99</price-after-discount_lt>
         <price-before-discount_fi>225.9900</price-before-discount_fi>
         <price-after-discount_fi>225.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777160067</sku>
+        <ean>1966111185380</ean>
+        <stock>3</stock>
+        <price-before-discount_lv>179.9900</price-before-discount_lv>
+        <price-after-discount_lv>179.99</price-after-discount_lv>
+        <price-before-discount_ee>179.9900</price-before-discount_ee>
+        <price-after-discount_ee>179.99</price-after-discount_ee>
+        <price-before-discount_lt>179.9900</price-before-discount_lt>
+        <price-after-discount_lt>179.99</price-after-discount_lt>
+        <price-before-discount_fi>179.9900</price-before-discount_fi>
+        <price-after-discount_fi>179.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -567,20 +553,6 @@
         <price-after-discount_lt>205</price-after-discount_lt>
         <price-before-discount_fi>249.9900</price-before-discount_fi>
         <price-after-discount_fi>205</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777180053</sku>
-        <ean>8052579048374</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -724,6 +696,20 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
+        <sku>7777500036</sku>
+        <ean>8050597538129</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>155.9900</price-before-discount_lv>
+        <price-after-discount_lv>155.99</price-after-discount_lv>
+        <price-before-discount_ee>155.9900</price-before-discount_ee>
+        <price-after-discount_ee>155.99</price-after-discount_ee>
+        <price-before-discount_lt>155.9900</price-before-discount_lt>
+        <price-after-discount_lt>155.99</price-after-discount_lt>
+        <price-before-discount_fi>155.9900</price-before-discount_fi>
+        <price-after-discount_fi>155.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
         <sku>7777600165</sku>
         <ean>2900011054901</ean>
         <stock>1</stock>
@@ -822,78 +808,22 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777313518</sku>
-        <ean>8721107413914</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>169.9900</price-before-discount_lv>
-        <price-after-discount_lv>169.99</price-after-discount_lv>
-        <price-before-discount_ee>169.9900</price-before-discount_ee>
-        <price-after-discount_ee>169.99</price-after-discount_ee>
-        <price-before-discount_lt>169.9900</price-before-discount_lt>
-        <price-after-discount_lt>169.99</price-after-discount_lt>
-        <price-before-discount_fi>169.9900</price-before-discount_fi>
-        <price-after-discount_fi>169.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777313519</sku>
-        <ean>8721107412535</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>169.9900</price-before-discount_lv>
-        <price-after-discount_lv>169.99</price-after-discount_lv>
-        <price-before-discount_ee>169.9900</price-before-discount_ee>
-        <price-after-discount_ee>169.99</price-after-discount_ee>
-        <price-before-discount_lt>169.9900</price-before-discount_lt>
-        <price-after-discount_lt>169.99</price-after-discount_lt>
-        <price-before-discount_fi>169.9900</price-before-discount_fi>
-        <price-after-discount_fi>169.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777313517</sku>
-        <ean>8721107413969</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>159.9900</price-before-discount_lv>
-        <price-after-discount_lv>159.99</price-after-discount_lv>
-        <price-before-discount_ee>159.9900</price-before-discount_ee>
-        <price-after-discount_ee>159.99</price-after-discount_ee>
-        <price-before-discount_lt>159.9900</price-before-discount_lt>
-        <price-after-discount_lt>159.99</price-after-discount_lt>
-        <price-before-discount_fi>159.9900</price-before-discount_fi>
-        <price-after-discount_fi>159.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777180090</sku>
         <ean>8052579340966</ean>
         <stock>2</stock>
         <price-before-discount_lv>419.9900</price-before-discount_lv>
-        <price-after-discount_lv>419.99</price-after-discount_lv>
+        <price-after-discount_lv>339</price-after-discount_lv>
         <price-before-discount_ee>419.9900</price-before-discount_ee>
-        <price-after-discount_ee>419.99</price-after-discount_ee>
+        <price-after-discount_ee>339</price-after-discount_ee>
         <price-before-discount_lt>419.9900</price-before-discount_lt>
-        <price-after-discount_lt>419.99</price-after-discount_lt>
+        <price-after-discount_lt>339</price-after-discount_lt>
         <price-before-discount_fi>419.9900</price-before-discount_fi>
-        <price-after-discount_fi>419.99</price-after-discount_fi>
+        <price-after-discount_fi>339</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777180097</sku>
-        <ean>8052579339168</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>229.9900</price-before-discount_lv>
-        <price-after-discount_lv>229.99</price-after-discount_lv>
-        <price-before-discount_ee>229.9900</price-before-discount_ee>
-        <price-after-discount_ee>229.99</price-after-discount_ee>
-        <price-before-discount_lt>229.9900</price-before-discount_lt>
-        <price-after-discount_lt>229.99</price-after-discount_lt>
-        <price-before-discount_fi>229.9900</price-before-discount_fi>
-        <price-after-discount_fi>229.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777180094</sku>
-        <ean>8052579339137</ean>
+        <sku>7777180099</sku>
+        <ean>8052579029953</ean>
         <stock>1</stock>
         <price-before-discount_lv>219.9900</price-before-discount_lv>
         <price-after-discount_lv>219.99</price-after-discount_lv>
@@ -906,17 +836,17 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777180091</sku>
-        <ean>8052579321347</ean>
+        <sku>7777180094</sku>
+        <ean>8052579339137</ean>
         <stock>1</stock>
-        <price-before-discount_lv>159.9900</price-before-discount_lv>
-        <price-after-discount_lv>159.99</price-after-discount_lv>
-        <price-before-discount_ee>159.9900</price-before-discount_ee>
-        <price-after-discount_ee>159.99</price-after-discount_ee>
-        <price-before-discount_lt>159.9900</price-before-discount_lt>
-        <price-after-discount_lt>159.99</price-after-discount_lt>
-        <price-before-discount_fi>159.9900</price-before-discount_fi>
-        <price-after-discount_fi>159.99</price-after-discount_fi>
+        <price-before-discount_lv>219.9900</price-before-discount_lv>
+        <price-after-discount_lv>179</price-after-discount_lv>
+        <price-before-discount_ee>219.9900</price-before-discount_ee>
+        <price-after-discount_ee>179</price-after-discount_ee>
+        <price-before-discount_lt>219.9900</price-before-discount_lt>
+        <price-after-discount_lt>179</price-after-discount_lt>
+        <price-before-discount_fi>219.9900</price-before-discount_fi>
+        <price-after-discount_fi>179</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -924,13 +854,13 @@
         <ean>8052579340959</ean>
         <stock>1</stock>
         <price-before-discount_lv>419.9900</price-before-discount_lv>
-        <price-after-discount_lv>419.99</price-after-discount_lv>
+        <price-after-discount_lv>339</price-after-discount_lv>
         <price-before-discount_ee>419.9900</price-before-discount_ee>
-        <price-after-discount_ee>419.99</price-after-discount_ee>
+        <price-after-discount_ee>339</price-after-discount_ee>
         <price-before-discount_lt>419.9900</price-before-discount_lt>
-        <price-after-discount_lt>419.99</price-after-discount_lt>
+        <price-after-discount_lt>339</price-after-discount_lt>
         <price-before-discount_fi>419.9900</price-before-discount_fi>
-        <price-after-discount_fi>419.99</price-after-discount_fi>
+        <price-after-discount_fi>339</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -976,6 +906,48 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
+        <sku>7777160105</sku>
+        <ean>1966110904074</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>179.9900</price-before-discount_lv>
+        <price-after-discount_lv>179.99</price-after-discount_lv>
+        <price-before-discount_ee>179.9900</price-before-discount_ee>
+        <price-after-discount_ee>179.99</price-after-discount_ee>
+        <price-before-discount_lt>179.9900</price-before-discount_lt>
+        <price-after-discount_lt>179.99</price-after-discount_lt>
+        <price-before-discount_fi>179.9900</price-before-discount_fi>
+        <price-after-discount_fi>179.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777160107</sku>
+        <ean>1966111308062</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777160106</sku>
+        <ean>1966111185908</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>179.9900</price-before-discount_lv>
+        <price-after-discount_lv>179.99</price-after-discount_lv>
+        <price-before-discount_ee>179.9900</price-before-discount_ee>
+        <price-after-discount_ee>179.99</price-after-discount_ee>
+        <price-before-discount_lt>179.9900</price-before-discount_lt>
+        <price-after-discount_lt>179.99</price-after-discount_lt>
+        <price-before-discount_fi>179.9900</price-before-discount_fi>
+        <price-after-discount_fi>179.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
         <sku>7777160104</sku>
         <ean>1966117597620</ean>
         <stock>1</stock>
@@ -987,6 +959,20 @@
         <price-after-discount_lt>245</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
         <price-after-discount_fi>245</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777160108</sku>
+        <ean>1966117628782</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1036,13 +1022,13 @@
         <ean>8721066222312</ean>
         <stock>1</stock>
         <price-before-discount_lv>299.9900</price-before-discount_lv>
-        <price-after-discount_lv>299.99</price-after-discount_lv>
+        <price-after-discount_lv>245</price-after-discount_lv>
         <price-before-discount_ee>299.9900</price-before-discount_ee>
-        <price-after-discount_ee>299.99</price-after-discount_ee>
+        <price-after-discount_ee>245</price-after-discount_ee>
         <price-before-discount_lt>299.9900</price-before-discount_lt>
-        <price-after-discount_lt>299.99</price-after-discount_lt>
+        <price-after-discount_lt>245</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
-        <price-after-discount_fi>299.99</price-after-discount_fi>
+        <price-after-discount_fi>245</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1050,13 +1036,13 @@
         <ean>8721066242280</ean>
         <stock>2</stock>
         <price-before-discount_lv>299.9900</price-before-discount_lv>
-        <price-after-discount_lv>299.99</price-after-discount_lv>
+        <price-after-discount_lv>245</price-after-discount_lv>
         <price-before-discount_ee>299.9900</price-before-discount_ee>
-        <price-after-discount_ee>299.99</price-after-discount_ee>
+        <price-after-discount_ee>245</price-after-discount_ee>
         <price-before-discount_lt>299.9900</price-before-discount_lt>
-        <price-after-discount_lt>299.99</price-after-discount_lt>
+        <price-after-discount_lt>245</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
-        <price-after-discount_fi>299.99</price-after-discount_fi>
+        <price-after-discount_fi>245</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1064,13 +1050,13 @@
         <ean>8721066529121</ean>
         <stock>1</stock>
         <price-before-discount_lv>279.9900</price-before-discount_lv>
-        <price-after-discount_lv>279.99</price-after-discount_lv>
+        <price-after-discount_lv>225</price-after-discount_lv>
         <price-before-discount_ee>279.9900</price-before-discount_ee>
-        <price-after-discount_ee>279.99</price-after-discount_ee>
+        <price-after-discount_ee>225</price-after-discount_ee>
         <price-before-discount_lt>279.9900</price-before-discount_lt>
-        <price-after-discount_lt>279.99</price-after-discount_lt>
+        <price-after-discount_lt>225</price-after-discount_lt>
         <price-before-discount_fi>279.9900</price-before-discount_fi>
-        <price-after-discount_fi>279.99</price-after-discount_fi>
+        <price-after-discount_fi>225</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1078,13 +1064,13 @@
         <ean>8721066529176</ean>
         <stock>2</stock>
         <price-before-discount_lv>279.9900</price-before-discount_lv>
-        <price-after-discount_lv>279.99</price-after-discount_lv>
+        <price-after-discount_lv>225</price-after-discount_lv>
         <price-before-discount_ee>279.9900</price-before-discount_ee>
-        <price-after-discount_ee>279.99</price-after-discount_ee>
+        <price-after-discount_ee>225</price-after-discount_ee>
         <price-before-discount_lt>279.9900</price-before-discount_lt>
-        <price-after-discount_lt>279.99</price-after-discount_lt>
+        <price-after-discount_lt>225</price-after-discount_lt>
         <price-before-discount_fi>279.9900</price-before-discount_fi>
-        <price-after-discount_fi>279.99</price-after-discount_fi>
+        <price-after-discount_fi>225</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1092,55 +1078,13 @@
         <ean>8721066529077</ean>
         <stock>4</stock>
         <price-before-discount_lv>229.9900</price-before-discount_lv>
-        <price-after-discount_lv>229.99</price-after-discount_lv>
+        <price-after-discount_lv>185</price-after-discount_lv>
         <price-before-discount_ee>229.9900</price-before-discount_ee>
-        <price-after-discount_ee>229.99</price-after-discount_ee>
+        <price-after-discount_ee>185</price-after-discount_ee>
         <price-before-discount_lt>229.9900</price-before-discount_lt>
-        <price-after-discount_lt>229.99</price-after-discount_lt>
+        <price-after-discount_lt>185</price-after-discount_lt>
         <price-before-discount_fi>229.9900</price-before-discount_fi>
-        <price-after-discount_fi>229.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131327</sku>
-        <ean>8721066338099</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131331</sku>
-        <ean>8721066338082</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131333</sku>
-        <ean>8721066529152</ean>
-        <stock>2</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
+        <price-after-discount_fi>185</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1186,62 +1130,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777131611</sku>
-        <ean>8721066670823</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131576</sku>
-        <ean>8721066594273</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131422</sku>
-        <ean>8721066529084</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131421</sku>
-        <ean>8721066593429</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777131359</sku>
         <ean>8721066599223</ean>
         <stock>1</stock>
@@ -1253,104 +1141,6 @@
         <price-after-discount_lt>185</price-after-discount_lt>
         <price-before-discount_fi>229.9900</price-before-discount_fi>
         <price-after-discount_fi>185</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131420</sku>
-        <ean>8721066593443</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>179.9900</price-before-discount_lv>
-        <price-after-discount_lv>179.99</price-after-discount_lv>
-        <price-before-discount_ee>179.9900</price-before-discount_ee>
-        <price-after-discount_ee>179.99</price-after-discount_ee>
-        <price-before-discount_lt>179.9900</price-before-discount_lt>
-        <price-after-discount_lt>179.99</price-after-discount_lt>
-        <price-before-discount_fi>179.9900</price-before-discount_fi>
-        <price-after-discount_fi>179.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131612</sku>
-        <ean>8721066670809</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131614</sku>
-        <ean>8721066670786</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131613</sku>
-        <ean>8721066670793</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131397</sku>
-        <ean>8721066593269</ean>
-        <stock>2</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131579</sku>
-        <ean>8721066601353</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131399</sku>
-        <ean>8721066270740</ean>
-        <stock>2</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1393,48 +1183,6 @@
         <price-after-discount_lt>275</price-after-discount_lt>
         <price-before-discount_fi>339.9900</price-before-discount_fi>
         <price-after-discount_fi>275</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777315128</sku>
-        <ean>8719849909079</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>149.9900</price-before-discount_lv>
-        <price-after-discount_lv>149.99</price-after-discount_lv>
-        <price-before-discount_ee>149.9900</price-before-discount_ee>
-        <price-after-discount_ee>149.99</price-after-discount_ee>
-        <price-before-discount_lt>149.9900</price-before-discount_lt>
-        <price-after-discount_lt>149.99</price-after-discount_lt>
-        <price-before-discount_fi>149.9900</price-before-discount_fi>
-        <price-after-discount_fi>149.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777315130</sku>
-        <ean>8721187007805</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>159.9900</price-before-discount_lv>
-        <price-after-discount_lv>159.99</price-after-discount_lv>
-        <price-before-discount_ee>159.9900</price-before-discount_ee>
-        <price-after-discount_ee>159.99</price-after-discount_ee>
-        <price-before-discount_lt>159.9900</price-before-discount_lt>
-        <price-after-discount_lt>159.99</price-after-discount_lt>
-        <price-before-discount_fi>159.9900</price-before-discount_fi>
-        <price-after-discount_fi>159.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777315312</sku>
-        <ean>8719849944940</ean>
-        <stock>3</stock>
-        <price-before-discount_lv>159.9900</price-before-discount_lv>
-        <price-after-discount_lv>159.99</price-after-discount_lv>
-        <price-before-discount_ee>159.9900</price-before-discount_ee>
-        <price-after-discount_ee>159.99</price-after-discount_ee>
-        <price-before-discount_lt>159.9900</price-before-discount_lt>
-        <price-after-discount_lt>159.99</price-after-discount_lt>
-        <price-before-discount_fi>159.9900</price-before-discount_fi>
-        <price-after-discount_fi>159.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1484,13 +1232,13 @@
         <ean>1978539508948</ean>
         <stock>2</stock>
         <price-before-discount_lv>449.9900</price-before-discount_lv>
-        <price-after-discount_lv>449.99</price-after-discount_lv>
+        <price-after-discount_lv>369</price-after-discount_lv>
         <price-before-discount_ee>449.9900</price-before-discount_ee>
-        <price-after-discount_ee>449.99</price-after-discount_ee>
+        <price-after-discount_ee>369</price-after-discount_ee>
         <price-before-discount_lt>449.9900</price-before-discount_lt>
-        <price-after-discount_lt>449.99</price-after-discount_lt>
+        <price-after-discount_lt>369</price-after-discount_lt>
         <price-before-discount_fi>449.9900</price-before-discount_fi>
-        <price-after-discount_fi>449.99</price-after-discount_fi>
+        <price-after-discount_fi>369</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1498,13 +1246,13 @@
         <ean>1962371367320</ean>
         <stock>2</stock>
         <price-before-discount_lv>229.9900</price-before-discount_lv>
-        <price-after-discount_lv>229.99</price-after-discount_lv>
+        <price-after-discount_lv>185</price-after-discount_lv>
         <price-before-discount_ee>229.9900</price-before-discount_ee>
-        <price-after-discount_ee>229.99</price-after-discount_ee>
+        <price-after-discount_ee>185</price-after-discount_ee>
         <price-before-discount_lt>229.9900</price-before-discount_lt>
-        <price-after-discount_lt>229.99</price-after-discount_lt>
+        <price-after-discount_lt>185</price-after-discount_lt>
         <price-before-discount_fi>229.9900</price-before-discount_fi>
-        <price-after-discount_fi>229.99</price-after-discount_fi>
+        <price-after-discount_fi>185</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1512,13 +1260,13 @@
         <ean>1978539507644</ean>
         <stock>1</stock>
         <price-before-discount_lv>299.9900</price-before-discount_lv>
-        <price-after-discount_lv>299.99</price-after-discount_lv>
+        <price-after-discount_lv>245</price-after-discount_lv>
         <price-before-discount_ee>299.9900</price-before-discount_ee>
-        <price-after-discount_ee>299.99</price-after-discount_ee>
+        <price-after-discount_ee>245</price-after-discount_ee>
         <price-before-discount_lt>299.9900</price-before-discount_lt>
-        <price-after-discount_lt>299.99</price-after-discount_lt>
+        <price-after-discount_lt>245</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
-        <price-after-discount_fi>299.99</price-after-discount_fi>
+        <price-after-discount_fi>245</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1526,13 +1274,13 @@
         <ean>1978539507712</ean>
         <stock>2</stock>
         <price-before-discount_lv>299.9900</price-before-discount_lv>
-        <price-after-discount_lv>299.99</price-after-discount_lv>
+        <price-after-discount_lv>245</price-after-discount_lv>
         <price-before-discount_ee>299.9900</price-before-discount_ee>
-        <price-after-discount_ee>299.99</price-after-discount_ee>
+        <price-after-discount_ee>245</price-after-discount_ee>
         <price-before-discount_lt>299.9900</price-before-discount_lt>
-        <price-after-discount_lt>299.99</price-after-discount_lt>
+        <price-after-discount_lt>245</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
-        <price-after-discount_fi>299.99</price-after-discount_fi>
+        <price-after-discount_fi>245</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1540,13 +1288,13 @@
         <ean>1978539515250</ean>
         <stock>2</stock>
         <price-before-discount_lv>349.9900</price-before-discount_lv>
-        <price-after-discount_lv>349.99</price-after-discount_lv>
+        <price-after-discount_lv>285</price-after-discount_lv>
         <price-before-discount_ee>349.9900</price-before-discount_ee>
-        <price-after-discount_ee>349.99</price-after-discount_ee>
+        <price-after-discount_ee>285</price-after-discount_ee>
         <price-before-discount_lt>349.9900</price-before-discount_lt>
-        <price-after-discount_lt>349.99</price-after-discount_lt>
+        <price-after-discount_lt>285</price-after-discount_lt>
         <price-before-discount_fi>349.9900</price-before-discount_fi>
-        <price-after-discount_fi>349.99</price-after-discount_fi>
+        <price-after-discount_fi>285</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1554,13 +1302,13 @@
         <ean>1978539507026</ean>
         <stock>1</stock>
         <price-before-discount_lv>379.9900</price-before-discount_lv>
-        <price-after-discount_lv>379.99</price-after-discount_lv>
+        <price-after-discount_lv>309</price-after-discount_lv>
         <price-before-discount_ee>379.9900</price-before-discount_ee>
-        <price-after-discount_ee>379.99</price-after-discount_ee>
+        <price-after-discount_ee>309</price-after-discount_ee>
         <price-before-discount_lt>379.9900</price-before-discount_lt>
-        <price-after-discount_lt>379.99</price-after-discount_lt>
+        <price-after-discount_lt>309</price-after-discount_lt>
         <price-before-discount_fi>379.9900</price-before-discount_fi>
-        <price-after-discount_fi>379.99</price-after-discount_fi>
+        <price-after-discount_fi>309</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -1608,7 +1356,7 @@
     <product>
         <sku>7777630290</sku>
         <ean>1978539888118</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>359.9900</price-before-discount_lv>
         <price-after-discount_lv>289</price-after-discount_lv>
         <price-before-discount_ee>359.9900</price-before-discount_ee>
@@ -2040,20 +1788,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777500090</sku>
-        <ean>8050597546384</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>285.9900</price-before-discount_lv>
-        <price-after-discount_lv>229</price-after-discount_lv>
-        <price-before-discount_ee>285.9900</price-before-discount_ee>
-        <price-after-discount_ee>229</price-after-discount_ee>
-        <price-before-discount_lt>285.9900</price-before-discount_lt>
-        <price-after-discount_lt>229</price-after-discount_lt>
-        <price-before-discount_fi>285.9900</price-before-discount_fi>
-        <price-after-discount_fi>229</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777630312</sku>
         <ean>1978539699028</ean>
         <stock>2</stock>
@@ -2079,6 +1813,20 @@
         <price-after-discount_lt>289</price-after-discount_lt>
         <price-before-discount_fi>359.9900</price-before-discount_fi>
         <price-after-discount_fi>289</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777630311</sku>
+        <ean>1978534641558</ean>
+        <stock>3</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2198,13 +1946,13 @@
         <ean>8024671405089</ean>
         <stock>1</stock>
         <price-before-discount_lv>449.9900</price-before-discount_lv>
-        <price-after-discount_lv>449.99</price-after-discount_lv>
+        <price-after-discount_lv>369</price-after-discount_lv>
         <price-before-discount_ee>449.9900</price-before-discount_ee>
-        <price-after-discount_ee>449.99</price-after-discount_ee>
+        <price-after-discount_ee>369</price-after-discount_ee>
         <price-before-discount_lt>449.9900</price-before-discount_lt>
-        <price-after-discount_lt>449.99</price-after-discount_lt>
+        <price-after-discount_lt>369</price-after-discount_lt>
         <price-before-discount_fi>449.9900</price-before-discount_fi>
-        <price-after-discount_fi>449.99</price-after-discount_fi>
+        <price-after-discount_fi>369</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2212,13 +1960,13 @@
         <ean>8024671622820</ean>
         <stock>1</stock>
         <price-before-discount_lv>439.9900</price-before-discount_lv>
-        <price-after-discount_lv>439.99</price-after-discount_lv>
+        <price-after-discount_lv>359</price-after-discount_lv>
         <price-before-discount_ee>439.9900</price-before-discount_ee>
-        <price-after-discount_ee>439.99</price-after-discount_ee>
+        <price-after-discount_ee>359</price-after-discount_ee>
         <price-before-discount_lt>439.9900</price-before-discount_lt>
-        <price-after-discount_lt>439.99</price-after-discount_lt>
+        <price-after-discount_lt>359</price-after-discount_lt>
         <price-before-discount_fi>439.9900</price-before-discount_fi>
-        <price-after-discount_fi>439.99</price-after-discount_fi>
+        <price-after-discount_fi>359</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2226,13 +1974,13 @@
         <ean>2900011086827</ean>
         <stock>1</stock>
         <price-before-discount_lv>219.9900</price-before-discount_lv>
-        <price-after-discount_lv>219.99</price-after-discount_lv>
+        <price-after-discount_lv>179</price-after-discount_lv>
         <price-before-discount_ee>219.9900</price-before-discount_ee>
-        <price-after-discount_ee>219.99</price-after-discount_ee>
+        <price-after-discount_ee>179</price-after-discount_ee>
         <price-before-discount_lt>219.9900</price-before-discount_lt>
-        <price-after-discount_lt>219.99</price-after-discount_lt>
+        <price-after-discount_lt>179</price-after-discount_lt>
         <price-before-discount_fi>219.9900</price-before-discount_fi>
-        <price-after-discount_fi>219.99</price-after-discount_fi>
+        <price-after-discount_fi>179</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2240,13 +1988,13 @@
         <ean>8024671485029</ean>
         <stock>1</stock>
         <price-before-discount_lv>519.9900</price-before-discount_lv>
-        <price-after-discount_lv>519.99</price-after-discount_lv>
+        <price-after-discount_lv>419</price-after-discount_lv>
         <price-before-discount_ee>519.9900</price-before-discount_ee>
-        <price-after-discount_ee>519.99</price-after-discount_ee>
+        <price-after-discount_ee>419</price-after-discount_ee>
         <price-before-discount_lt>519.9900</price-before-discount_lt>
-        <price-after-discount_lt>519.99</price-after-discount_lt>
+        <price-after-discount_lt>419</price-after-discount_lt>
         <price-before-discount_fi>519.9900</price-before-discount_fi>
-        <price-after-discount_fi>519.99</price-after-discount_fi>
+        <price-after-discount_fi>419</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2443,20 +2191,6 @@
         <price-after-discount_lt>259.99</price-after-discount_lt>
         <price-before-discount_fi>259.9900</price-before-discount_fi>
         <price-after-discount_fi>259.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131610</sku>
-        <ean>8721066670830</ean>
-        <stock>4</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -2793,20 +2527,6 @@
         <price-after-discount_lt>439.99</price-after-discount_lt>
         <price-before-discount_fi>439.9900</price-before-discount_fi>
         <price-after-discount_fi>439.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777160115</sku>
-        <ean>1966117597248</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>429.9900</price-before-discount_lv>
-        <price-after-discount_lv>349</price-after-discount_lv>
-        <price-before-discount_ee>429.9900</price-before-discount_ee>
-        <price-after-discount_ee>349</price-after-discount_ee>
-        <price-before-discount_lt>429.9900</price-before-discount_lt>
-        <price-after-discount_lt>349</price-after-discount_lt>
-        <price-before-discount_fi>429.9900</price-before-discount_fi>
-        <price-after-discount_fi>349</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -3554,7 +3274,7 @@
     <product>
         <sku>7777500105</sku>
         <ean>8050597735252</ean>
-        <stock>5</stock>
+        <stock>3</stock>
         <price-before-discount_lv>289.9900</price-before-discount_lv>
         <price-after-discount_lv>289.99</price-after-discount_lv>
         <price-before-discount_ee>289.9900</price-before-discount_ee>
@@ -3708,7 +3428,7 @@
     <product>
         <sku>7777131924</sku>
         <ean>8721066726766</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>349.9900</price-before-discount_lv>
         <price-after-discount_lv>349.99</price-after-discount_lv>
         <price-before-discount_ee>349.9900</price-before-discount_ee>
@@ -3759,20 +3479,6 @@
         <price-after-discount_lt>299.99</price-after-discount_lt>
         <price-before-discount_fi>299.9900</price-before-discount_fi>
         <price-after-discount_fi>299.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777131921</sku>
-        <ean>8721066726117</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>279.9900</price-before-discount_lv>
-        <price-after-discount_lv>279.99</price-after-discount_lv>
-        <price-before-discount_ee>279.9900</price-before-discount_ee>
-        <price-after-discount_ee>279.99</price-after-discount_ee>
-        <price-before-discount_lt>279.9900</price-before-discount_lt>
-        <price-after-discount_lt>279.99</price-after-discount_lt>
-        <price-before-discount_fi>279.9900</price-before-discount_fi>
-        <price-after-discount_fi>279.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -4086,7 +3792,7 @@
     <product>
         <sku>7777670172</sku>
         <ean>8059826142373</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>389.9900</price-before-discount_lv>
         <price-after-discount_lv>319</price-after-discount_lv>
         <price-before-discount_ee>389.9900</price-before-discount_ee>
@@ -4266,20 +3972,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777670129</sku>
-        <ean>8054406869961</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>329.9900</price-before-discount_lv>
-        <price-after-discount_lv>265</price-after-discount_lv>
-        <price-before-discount_ee>329.9900</price-before-discount_ee>
-        <price-after-discount_ee>329.99</price-after-discount_ee>
-        <price-before-discount_lt>329.9900</price-before-discount_lt>
-        <price-after-discount_lt>329.99</price-after-discount_lt>
-        <price-before-discount_fi>329.9900</price-before-discount_fi>
-        <price-after-discount_fi>329.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777670130</sku>
         <ean>8054406870189</ean>
         <stock>1</stock>
@@ -4394,7 +4086,7 @@
     <product>
         <sku>7777520019</sku>
         <ean>9010849439870</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>219.9900</price-before-discount_lv>
         <price-after-discount_lv>219.99</price-after-discount_lv>
         <price-before-discount_ee>219.9900</price-before-discount_ee>
@@ -4546,48 +4238,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777520036</sku>
-        <ean>9010849470392</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777520037</sku>
-        <ean>9010849470415</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777520039</sku>
-        <ean>9010849470439</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777520023</sku>
         <ean>9010849436657</ean>
         <stock>1</stock>
@@ -4714,20 +4364,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777520033</sku>
-        <ean>9010849427990</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>189.9900</price-before-discount_lv>
-        <price-after-discount_lv>189.99</price-after-discount_lv>
-        <price-before-discount_ee>189.9900</price-before-discount_ee>
-        <price-after-discount_ee>189.99</price-after-discount_ee>
-        <price-before-discount_lt>189.9900</price-before-discount_lt>
-        <price-after-discount_lt>189.99</price-after-discount_lt>
-        <price-before-discount_fi>189.9900</price-before-discount_fi>
-        <price-after-discount_fi>189.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777160119</sku>
         <ean>2900011094815</ean>
         <stock>2</stock>
@@ -4786,7 +4422,7 @@
     <product>
         <sku>7777160122</sku>
         <ean>1966118216506</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>479.9900</price-before-discount_lv>
         <price-after-discount_lv>479.99</price-after-discount_lv>
         <price-before-discount_ee>479.9900</price-before-discount_ee>
@@ -5080,7 +4716,7 @@
     <product>
         <sku>7777320520</sku>
         <ean>8721223895816</ean>
-        <stock>3</stock>
+        <stock>1</stock>
         <price-before-discount_lv>149.9900</price-before-discount_lv>
         <price-after-discount_lv>149.99</price-after-discount_lv>
         <price-before-discount_ee>149.9900</price-before-discount_ee>
@@ -5108,7 +4744,7 @@
     <product>
         <sku>7777320522</sku>
         <ean>8721223892617</ean>
-        <stock>3</stock>
+        <stock>2</stock>
         <price-before-discount_lv>149.9900</price-before-discount_lv>
         <price-after-discount_lv>149.99</price-after-discount_lv>
         <price-before-discount_ee>149.9900</price-before-discount_ee>
@@ -5145,20 +4781,6 @@
         <price-after-discount_lt>469.99</price-after-discount_lt>
         <price-before-discount_fi>469.9900</price-before-discount_fi>
         <price-after-discount_fi>469.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777500117</sku>
-        <ean>8050597807980</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>439.9900</price-before-discount_lv>
-        <price-after-discount_lv>439.99</price-after-discount_lv>
-        <price-before-discount_ee>439.9900</price-before-discount_ee>
-        <price-after-discount_ee>439.99</price-after-discount_ee>
-        <price-before-discount_lt>439.9900</price-before-discount_lt>
-        <price-after-discount_lt>439.99</price-after-discount_lt>
-        <price-before-discount_fi>439.9900</price-before-discount_fi>
-        <price-after-discount_fi>439.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -5206,7 +4828,7 @@
     <product>
         <sku>7777500131</sku>
         <ean>8050597779041</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>359.9900</price-before-discount_lv>
         <price-after-discount_lv>359.99</price-after-discount_lv>
         <price-before-discount_ee>359.9900</price-before-discount_ee>
@@ -5220,7 +4842,7 @@
     <product>
         <sku>7777500130</sku>
         <ean>8050597779058</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>359.9900</price-before-discount_lv>
         <price-after-discount_lv>359.99</price-after-discount_lv>
         <price-before-discount_ee>359.9900</price-before-discount_ee>
@@ -5442,6 +5064,20 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
+        <sku>7777500139</sku>
+        <ean>8050597794525</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>279.9900</price-before-discount_lv>
+        <price-after-discount_lv>279.99</price-after-discount_lv>
+        <price-before-discount_ee>279.9900</price-before-discount_ee>
+        <price-after-discount_ee>279.99</price-after-discount_ee>
+        <price-before-discount_lt>279.9900</price-before-discount_lt>
+        <price-after-discount_lt>279.99</price-after-discount_lt>
+        <price-before-discount_fi>279.9900</price-before-discount_fi>
+        <price-after-discount_fi>279.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
         <sku>7777500144</sku>
         <ean>8050597779621</ean>
         <stock>2</stock>
@@ -5467,6 +5103,34 @@
         <price-after-discount_lt>279.99</price-after-discount_lt>
         <price-before-discount_fi>279.9900</price-before-discount_fi>
         <price-after-discount_fi>279.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777500146</sku>
+        <ean>8050597706559</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777500147</sku>
+        <ean>8050597743233</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
     <product>
@@ -5500,7 +5164,7 @@
     <product>
         <sku>7777680002</sku>
         <ean>2900011099605</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>389.9900</price-before-discount_lv>
         <price-after-discount_lv>389.99</price-after-discount_lv>
         <price-before-discount_ee>389.9900</price-before-discount_ee>
@@ -5778,34 +5442,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777680024</sku>
-        <ean>2900011099827</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>279.9900</price-before-discount_lv>
-        <price-after-discount_lv>279.99</price-after-discount_lv>
-        <price-before-discount_ee>279.9900</price-before-discount_ee>
-        <price-after-discount_ee>279.99</price-after-discount_ee>
-        <price-before-discount_lt>279.9900</price-before-discount_lt>
-        <price-after-discount_lt>279.99</price-after-discount_lt>
-        <price-before-discount_fi>279.9900</price-before-discount_fi>
-        <price-after-discount_fi>279.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777680025</sku>
-        <ean>2900011099834</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>279.9900</price-before-discount_lv>
-        <price-after-discount_lv>279.99</price-after-discount_lv>
-        <price-before-discount_ee>279.9900</price-before-discount_ee>
-        <price-after-discount_ee>279.99</price-after-discount_ee>
-        <price-before-discount_lt>279.9900</price-before-discount_lt>
-        <price-after-discount_lt>279.99</price-after-discount_lt>
-        <price-before-discount_fi>279.9900</price-before-discount_fi>
-        <price-after-discount_fi>279.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777680026</sku>
         <ean>2900011099841</ean>
         <stock>1</stock>
@@ -6060,7 +5696,7 @@
     <product>
         <sku>7777630338</sku>
         <ean>1991251798114</ean>
-        <stock>3</stock>
+        <stock>2</stock>
         <price-before-discount_lv>249.9900</price-before-discount_lv>
         <price-after-discount_lv>249.99</price-after-discount_lv>
         <price-before-discount_ee>249.9900</price-before-discount_ee>
@@ -6144,7 +5780,7 @@
     <product>
         <sku>7777630402</sku>
         <ean>1991251802996</ean>
-        <stock>3</stock>
+        <stock>2</stock>
         <price-before-discount_lv>199.9900</price-before-discount_lv>
         <price-after-discount_lv>199.99</price-after-discount_lv>
         <price-before-discount_ee>199.9900</price-before-discount_ee>
@@ -6158,7 +5794,7 @@
     <product>
         <sku>7777630406</sku>
         <ean>1991251802682</ean>
-        <stock>3</stock>
+        <stock>2</stock>
         <price-before-discount_lv>199.9900</price-before-discount_lv>
         <price-after-discount_lv>199.99</price-after-discount_lv>
         <price-before-discount_ee>199.9900</price-before-discount_ee>
@@ -6674,20 +6310,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777660703</sku>
-        <ean>8051572889236</ean>
-        <stock>2</stock>
-        <price-before-discount_lv>189.9900</price-before-discount_lv>
-        <price-after-discount_lv>189.99</price-after-discount_lv>
-        <price-before-discount_ee>189.9900</price-before-discount_ee>
-        <price-after-discount_ee>189.99</price-after-discount_ee>
-        <price-before-discount_lt>189.9900</price-before-discount_lt>
-        <price-after-discount_lt>189.99</price-after-discount_lt>
-        <price-before-discount_fi>189.9900</price-before-discount_fi>
-        <price-after-discount_fi>189.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777660704</sku>
         <ean>8051572889243</ean>
         <stock>2</stock>
@@ -6856,6 +6478,34 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
+        <sku>7777500192</sku>
+        <ean>8050597457949</ean>
+        <stock>3</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777500188</sku>
+        <ean>8050597457918</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>159.9900</price-before-discount_lv>
+        <price-after-discount_lv>159.99</price-after-discount_lv>
+        <price-before-discount_ee>159.9900</price-before-discount_ee>
+        <price-after-discount_ee>159.99</price-after-discount_ee>
+        <price-before-discount_lt>159.9900</price-before-discount_lt>
+        <price-after-discount_lt>159.99</price-after-discount_lt>
+        <price-before-discount_fi>159.9900</price-before-discount_fi>
+        <price-after-discount_fi>159.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
         <sku>7777520060</sku>
         <ean>9010849452534</ean>
         <stock>1</stock>
@@ -6998,20 +6648,6 @@
     <product>
         <sku>7777520075</sku>
         <ean>9010849451988</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>219.9900</price-before-discount_lv>
-        <price-after-discount_lv>219.99</price-after-discount_lv>
-        <price-before-discount_ee>219.9900</price-before-discount_ee>
-        <price-after-discount_ee>219.99</price-after-discount_ee>
-        <price-before-discount_lt>219.9900</price-before-discount_lt>
-        <price-after-discount_lt>219.99</price-after-discount_lt>
-        <price-before-discount_fi>219.9900</price-before-discount_fi>
-        <price-after-discount_fi>219.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777520076</sku>
-        <ean>9010849451995</ean>
         <stock>1</stock>
         <price-before-discount_lv>219.9900</price-before-discount_lv>
         <price-after-discount_lv>219.99</price-after-discount_lv>
@@ -7682,20 +7318,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777500182</sku>
-        <ean>8050597537450</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>379.9900</price-before-discount_lv>
-        <price-after-discount_lv>379.99</price-after-discount_lv>
-        <price-before-discount_ee>379.9900</price-before-discount_ee>
-        <price-after-discount_ee>379.99</price-after-discount_ee>
-        <price-before-discount_lt>379.9900</price-before-discount_lt>
-        <price-after-discount_lt>379.99</price-after-discount_lt>
-        <price-before-discount_fi>379.9900</price-before-discount_fi>
-        <price-after-discount_fi>379.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777500161</sku>
         <ean>8050597436227</ean>
         <stock>1</stock>
@@ -7780,6 +7402,48 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
+        <sku>7777500189</sku>
+        <ean>8050597499185</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>159.9900</price-before-discount_lv>
+        <price-after-discount_lv>159.99</price-after-discount_lv>
+        <price-before-discount_ee>159.9900</price-before-discount_ee>
+        <price-after-discount_ee>159.99</price-after-discount_ee>
+        <price-before-discount_lt>159.9900</price-before-discount_lt>
+        <price-after-discount_lt>159.99</price-after-discount_lt>
+        <price-before-discount_fi>159.9900</price-before-discount_fi>
+        <price-after-discount_fi>159.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777500191</sku>
+        <ean>8050597429052</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777500193</sku>
+        <ean>8050597483580</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>149.9900</price-before-discount_lv>
+        <price-after-discount_lv>149.99</price-after-discount_lv>
+        <price-before-discount_ee>149.9900</price-before-discount_ee>
+        <price-after-discount_ee>149.99</price-after-discount_ee>
+        <price-before-discount_lt>149.9900</price-before-discount_lt>
+        <price-after-discount_lt>149.99</price-after-discount_lt>
+        <price-before-discount_fi>149.9900</price-before-discount_fi>
+        <price-after-discount_fi>149.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
         <sku>7777160133</sku>
         <ean>1966118219330</ean>
         <stock>1</stock>
@@ -7810,48 +7474,6 @@
     <product>
         <sku>7777113060</sku>
         <ean>2900011103715</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>399.9900</price-before-discount_lv>
-        <price-after-discount_lv>399.99</price-after-discount_lv>
-        <price-before-discount_ee>399.9900</price-before-discount_ee>
-        <price-after-discount_ee>399.99</price-after-discount_ee>
-        <price-before-discount_lt>399.9900</price-before-discount_lt>
-        <price-after-discount_lt>399.99</price-after-discount_lt>
-        <price-before-discount_fi>399.9900</price-before-discount_fi>
-        <price-after-discount_fi>399.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777113062</sku>
-        <ean>2900011103739</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>399.9900</price-before-discount_lv>
-        <price-after-discount_lv>399.99</price-after-discount_lv>
-        <price-before-discount_ee>399.9900</price-before-discount_ee>
-        <price-after-discount_ee>399.99</price-after-discount_ee>
-        <price-before-discount_lt>399.9900</price-before-discount_lt>
-        <price-after-discount_lt>399.99</price-after-discount_lt>
-        <price-before-discount_fi>399.9900</price-before-discount_fi>
-        <price-after-discount_fi>399.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777113063</sku>
-        <ean>2900011103746</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>399.9900</price-before-discount_lv>
-        <price-after-discount_lv>399.99</price-after-discount_lv>
-        <price-before-discount_ee>399.9900</price-before-discount_ee>
-        <price-after-discount_ee>399.99</price-after-discount_ee>
-        <price-before-discount_lt>399.9900</price-before-discount_lt>
-        <price-after-discount_lt>399.99</price-after-discount_lt>
-        <price-before-discount_fi>399.9900</price-before-discount_fi>
-        <price-after-discount_fi>399.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
-        <sku>7777113064</sku>
-        <ean>2900011103753</ean>
         <stock>1</stock>
         <price-before-discount_lv>399.9900</price-before-discount_lv>
         <price-after-discount_lv>399.99</price-after-discount_lv>
@@ -7962,20 +7584,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777160135</sku>
-        <ean>1966113015104</ean>
-        <stock>2</stock>
-        <price-before-discount_lv>229.9900</price-before-discount_lv>
-        <price-after-discount_lv>229.99</price-after-discount_lv>
-        <price-before-discount_ee>229.9900</price-before-discount_ee>
-        <price-after-discount_ee>229.99</price-after-discount_ee>
-        <price-before-discount_lt>229.9900</price-before-discount_lt>
-        <price-after-discount_lt>229.99</price-after-discount_lt>
-        <price-before-discount_fi>229.9900</price-before-discount_fi>
-        <price-after-discount_fi>229.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777132612</sku>
         <ean>8721066538185</ean>
         <stock>3</stock>
@@ -8020,7 +7628,7 @@
     <product>
         <sku>7777132409</sku>
         <ean>8721066373236</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>249.9900</price-before-discount_lv>
         <price-after-discount_lv>249.99</price-after-discount_lv>
         <price-before-discount_ee>249.9900</price-before-discount_ee>
@@ -8060,20 +7668,6 @@
         <collectionhours>24</collectionhours>
     </product>
     <product>
-        <sku>7777132444</sku>
-        <ean>8721066334817</ean>
-        <stock>1</stock>
-        <price-before-discount_lv>199.9900</price-before-discount_lv>
-        <price-after-discount_lv>199.99</price-after-discount_lv>
-        <price-before-discount_ee>199.9900</price-before-discount_ee>
-        <price-after-discount_ee>199.99</price-after-discount_ee>
-        <price-before-discount_lt>199.9900</price-before-discount_lt>
-        <price-after-discount_lt>199.99</price-after-discount_lt>
-        <price-before-discount_fi>199.9900</price-before-discount_fi>
-        <price-after-discount_fi>199.99</price-after-discount_fi>
-        <collectionhours>24</collectionhours>
-    </product>
-    <product>
         <sku>7777132547</sku>
         <ean>8721066599407</ean>
         <stock>3</stock>
@@ -8104,7 +7698,7 @@
     <product>
         <sku>7777132408</sku>
         <ean>8721066268259</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>339.9900</price-before-discount_lv>
         <price-after-discount_lv>339.99</price-after-discount_lv>
         <price-before-discount_ee>339.9900</price-before-discount_ee>
@@ -8146,7 +7740,7 @@
     <product>
         <sku>7777132553</sku>
         <ean>8721066580634</ean>
-        <stock>2</stock>
+        <stock>1</stock>
         <price-before-discount_lv>179.9900</price-before-discount_lv>
         <price-after-discount_lv>179.99</price-after-discount_lv>
         <price-before-discount_ee>179.9900</price-before-discount_ee>
@@ -8183,6 +7777,160 @@
         <price-after-discount_lt>215.99</price-after-discount_lt>
         <price-before-discount_fi>215.9900</price-before-discount_fi>
         <price-after-discount_fi>215.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670229</sku>
+        <ean>8059826144681</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>359.9900</price-before-discount_lv>
+        <price-after-discount_lv>289</price-after-discount_lv>
+        <price-before-discount_ee>359.9900</price-before-discount_ee>
+        <price-after-discount_ee>359.99</price-after-discount_ee>
+        <price-before-discount_lt>359.9900</price-before-discount_lt>
+        <price-after-discount_lt>359.99</price-after-discount_lt>
+        <price-before-discount_fi>359.9900</price-before-discount_fi>
+        <price-after-discount_fi>359.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670230</sku>
+        <ean>8059826144704</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>359.9900</price-before-discount_lv>
+        <price-after-discount_lv>289</price-after-discount_lv>
+        <price-before-discount_ee>359.9900</price-before-discount_ee>
+        <price-after-discount_ee>359.99</price-after-discount_ee>
+        <price-before-discount_lt>359.9900</price-before-discount_lt>
+        <price-after-discount_lt>359.99</price-after-discount_lt>
+        <price-before-discount_fi>359.9900</price-before-discount_fi>
+        <price-after-discount_fi>359.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670231</sku>
+        <ean>8059826144728</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>359.9900</price-before-discount_lv>
+        <price-after-discount_lv>289</price-after-discount_lv>
+        <price-before-discount_ee>359.9900</price-before-discount_ee>
+        <price-after-discount_ee>359.99</price-after-discount_ee>
+        <price-before-discount_lt>359.9900</price-before-discount_lt>
+        <price-after-discount_lt>359.99</price-after-discount_lt>
+        <price-before-discount_fi>359.9900</price-before-discount_fi>
+        <price-after-discount_fi>359.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670233</sku>
+        <ean>8059826144766</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>359.9900</price-before-discount_lv>
+        <price-after-discount_lv>289</price-after-discount_lv>
+        <price-before-discount_ee>359.9900</price-before-discount_ee>
+        <price-after-discount_ee>359.99</price-after-discount_ee>
+        <price-before-discount_lt>359.9900</price-before-discount_lt>
+        <price-after-discount_lt>359.99</price-after-discount_lt>
+        <price-before-discount_fi>359.9900</price-before-discount_fi>
+        <price-after-discount_fi>359.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670234</sku>
+        <ean>8059826144780</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>359.9900</price-before-discount_lv>
+        <price-after-discount_lv>289</price-after-discount_lv>
+        <price-before-discount_ee>359.9900</price-before-discount_ee>
+        <price-after-discount_ee>359.99</price-after-discount_ee>
+        <price-before-discount_lt>359.9900</price-before-discount_lt>
+        <price-after-discount_lt>359.99</price-after-discount_lt>
+        <price-before-discount_fi>359.9900</price-before-discount_fi>
+        <price-after-discount_fi>359.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670241</sku>
+        <ean>8054406875368</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670242</sku>
+        <ean>8054406875382</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670243</sku>
+        <ean>8054406875405</ean>
+        <stock>2</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670244</sku>
+        <ean>8054406875429</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670245</sku>
+        <ean>8054406875443</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
+        <collectionhours>24</collectionhours>
+    </product>
+    <product>
+        <sku>7777670246</sku>
+        <ean>8054406875467</ean>
+        <stock>1</stock>
+        <price-before-discount_lv>389.9900</price-before-discount_lv>
+        <price-after-discount_lv>319</price-after-discount_lv>
+        <price-before-discount_ee>389.9900</price-before-discount_ee>
+        <price-after-discount_ee>389.99</price-after-discount_ee>
+        <price-before-discount_lt>389.9900</price-before-discount_lt>
+        <price-after-discount_lt>389.99</price-after-discount_lt>
+        <price-before-discount_fi>389.9900</price-before-discount_fi>
+        <price-after-discount_fi>389.99</price-after-discount_fi>
         <collectionhours>24</collectionhours>
     </product>
 </products>
