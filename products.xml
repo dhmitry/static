@@ -90,4 +90,35 @@
             <image>https://dhmitry.github.io/static/unitek-y-c453-1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Gembird</manufacturer>
+        <sku>CCB-mUSB2B-AMLM-6-G</sku>
+        <title>Vads Cablexpert USB to 8-pin USB, 8 pin, 1.8 m, zelta krās.</title>
+        <category-name><![CDATA[Datoru tehnika / Kabeļi un vadi / USB kabeļi]]></category-name>
+        <price>2.79</price>
+        <stock>1</stock>
+        <material>
+            <outer_material>kokvilnas pinums</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                Preces tips: Vads
+                Zīmols / Kolekcija: Gembird / Cablexpert
+                Modelis: USB to 8-pin
+                Laida ilgis / Garums: 1.8 m
+                Krāsa: Zelta
+                1. savienojums: USB-A Vīrietis (Male)
+                2. savienojums: Apple Lightning 8-pin Vīrietis (Male)
+                Funkcija: Datu pārraide un lādēšana
+                Papildus: Apzeltīti kontakti, metāla savienotāji, kokvilnas pinuma dizains
+                Garantija: 24 mēn
+            ]]>
+        </description>
+        <images>
+            <image>https://new.ksd-images.lt/display?path=aikido/store/23f674179e54ba6d0bd172e095b453d7.jpg&amp;op=noop</image>
+            <image>https://new.ksd-images.lt/display?path=aikido/store/7ddca330fd548fa0b43c8d3f113cdf4f.jpg&amp;op=noop</image>
+            <image>https://new.ksd-images.lt/display?path=aikido/store/d11537346769d504310059759ae7e782.jpg&amp;op=noop</image>
+        </images>
+    </product>
 </products>
