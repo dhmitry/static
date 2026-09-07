@@ -253,4 +253,31 @@
             <image>https://evelatusb2b.lv/images/x1323_870495_1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Gembird</manufacturer>
+        <sku>UAPS12</sku>
+        <ean>8716309017305</ean>
+        <title>Kabelis Gembird Adapteris Gembird USB uz PS/2</title>
+        <category-name><![CDATA[Datortehnika un konsoles / Datortehnikas aksesuāri / Kabelis]]></category-name>
+        <price>2.65</price>
+        <stock>5</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 8716309017305
+                Ražotāja kods: UAPS12
+                Ražotājs: Gembird
+                Pirmais savienojuma veids: USB Male
+                Otrais savienojuma veids: PS/2
+                Garantija: 2 gadi
+                HS kods: 8517620003
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x202_1544477_1.jpg</image>
+        </images>
+    </product>
 </products>
