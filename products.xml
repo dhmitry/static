@@ -335,4 +335,38 @@
             <image>https://evelatusb2b.lv/images/x1323_1821083_1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Xiaomi</manufacturer>
+        <sku>MDY-17-EF</sku>
+        <ean>5903396401152</ean>
+        <title>Adapteris Xiaomi XIAOMI original charger USB A QC3.0 4.1A 45W MDY-17-EF white bulk</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Lādēšanas ierīces un kabeļi / Adapteris]]></category-name>
+        <price>10.23</price>
+        <stock>62</stock>
+        <material>
+            <outer_material>Plastic</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 5903396401152
+                Ražotāja kods: MDY-17-EF
+                Ražotājs: Xiaomi
+                Tips: Sienas lādētājs (bulk, bez kabeļa)
+                Izejas ports: USB-A
+                Maksimālā jauda: 45W
+                Ieejas spriegums: 100–240V
+                Izejas spriegums/strāva: 5V=3A, 5–11V=4.1A
+                Ātrās uzlādes tehnoloģija: TurboCharge, QC 3.0
+                Krāsa: White
+                Iepakojuma izmēri: 9.5 x 5.0 x 3.0 cm
+                Bruto svars: 85 g
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x2351_1305041_1.jpg</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=x2351_1305041_36.jpg&amp;item_id=1305041&amp;width=orig</image>
+        </images>
+    </product>
 </products>
