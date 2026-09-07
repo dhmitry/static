@@ -395,4 +395,70 @@
             <image>https://evelatusb2b.lv/images/x2035_1453131_1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>OEM</manufacturer>
+        <sku>5903396385100</sku>
+        <ean>5903396385100</ean>
+        <title>Aizmugurējais vāciņš OEM Case for Xiaomi Redmi Note 14 PRO 4G Variete black</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Maciņi / Aizmugurējais vāciņš]]></category-name>
+        <price>1.04</price>
+        <stock>346</stock>
+        <material>
+            <outer_material>TPU, Plastic</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 5903396385100
+                Ražotājs: OEM
+                Modelis: Variete
+                Saderīgs ar: Xiaomi Redmi Note 14 PRO 4G
+                Krāsa: Black
+                Materiāls: TPU (sānu malas, vienlaidus liešana), plastmasa (aizmugure), plastmasa (kameras rāmis un pogas - krāsotas ar eļļas krāsu)
+                Kameras aizsardzība: Pacelts rāmis ar aizsargstiklu objektīviem
+                Dizains: Matēts, vienkrāsains
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x2351_1302811_1.jpg</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=x2351_1302811_486.jpg&amp;item_id=1302811&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=x2351_1302811_192.jpg&amp;item_id=1302811&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=x2351_1302811_209.jpg&amp;item_id=1302811&amp;width=orig</image>
+        </images>
+    </product>
+    <product>
+        <manufacturer>iLike</manufacturer>
+        <sku>IXMI8LITEUS05TCT</sku>
+        <ean>5900495741370</ean>
+        <title>Aizmugurējais vāciņš iLike Xiaomi Mi 8 Lite Ultra Slim 0,5 mm TPU case Transparent</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Maciņi / Aizmugurējais vāciņš]]></category-name>
+        <price>0.30</price>
+        <stock>17</stock>
+        <material>
+            <outer_material>TPU (Šķidrais silikons)</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 5900495741370
+                Ražotāja kods: IXMI8LITEUS05TCT
+                Ražotājs: iLike
+                Saderīgs ar: Xiaomi Mi 8 Lite
+                Krāsa: Caurspīdīga (Transparent)
+                Materiāls: Šķidrais silikons (TPU)
+                Biezums: 0,5 mm
+                Vāka forma: Nedaudz paceltās malas ap ekrānu un kameru
+                Aizsardzība pret kritieniem: Ir
+                Funkcijas: Saglabā savu caurspīdīgumu ilgu laiku, pateicoties TPU materiālam, pievienotajam zilajam pigmentam
+                Iepakojuma izmēri: 19.0 x 10.0 x 2.0 cm
+                Bruto svars: 100 g
+                Neto svars: 40 g
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/28088_4050.jpg</image>
+        </images>
+    </product>
 </products>
