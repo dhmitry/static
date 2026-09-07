@@ -179,4 +179,49 @@
             <image>https://evelatusb2b.lv/sys_/img_opt.php?file=4689_5171.jpg&amp;item_id=4689&amp;width=orig</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Evelatus</manufacturer>
+        <sku>ESP01</sku>
+        <ean>4751024972069</ean>
+        <title>Bezvadu skaļrunis Evelatus - Bluetooth Speaker ESP01 Silver</title>
+        <category-name><![CDATA[Skaļruņi / Bezvadu skaļrunis]]></category-name>
+        <price>9.70</price>
+        <stock>11</stock>
+        <material>
+            <outer_material>Metal+Plastic</outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 4751024972069
+                Ražotāja kods: ESP01
+                Ražotājs: Evelatus
+                Krāsa: Silver
+                Tips: Bezvadu skaļrunis
+                Jauda: 5 W
+                Darbības rādiuss: 10m
+                Atbalstītie datu nesēji: Ierīces ar Bluetooth
+                Ieejas: 3.5mm jack, Aux-In, Micro USB
+                Izejas: 3.5mm jack, Aux-out
+                Bezvadu savienojumi: Bluetooth
+                Mikrofons: Ir
+                Vadība: Skaļuma regulēšanai, atbildēšanai uz telefona zvaniem un dziesmu pārslēgšanai
+                Korpuss: Metāla apdares korpuss
+                Baterija: Litija, 5 stundu darbība
+                Komplektā: USB uzlādes kabelis, audio kabelis
+                Iepakojuma izmēri: 9.2 x 10.5 x 9.2 cm
+                Bruto svars: 337 g
+                Neto svars: 294 g
+                HS kods: 8518210000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/15218_6943.jpg</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_6742.jpg&amp;item_id=15218&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_9299.jpg&amp;item_id=15218&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_2870.jpg&amp;item_id=15218&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_5955.jpg&amp;item_id=15218&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_6801.jpg&amp;item_id=15218&amp;width=orig</image>
+        </images>
+    </product>
 </products>
