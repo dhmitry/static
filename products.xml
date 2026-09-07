@@ -369,4 +369,30 @@
             <image>https://evelatusb2b.lv/sys_/img_opt.php?file=x2351_1305041_36.jpg&amp;item_id=1305041&amp;width=orig</image>
         </images>
     </product>
+    <product>
+        <manufacturer>HP</manufacturer>
+        <sku>C1Q10A</sku>
+        <ean>4573285745493</ean>
+        <title>Aksesuāri un izejmateriāli HP HP 711 Original Druckkopf Replacement Kit</title>
+        <category-name><![CDATA[Datortehnika un konsoles / Printeri / Aksesuāri un izejmateriāli]]></category-name>
+        <price>245.82</price>
+        <stock>100</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 4573285745493
+                Ražotāja kods: C1Q10A
+                Ražotājs: HP
+                Modelis: HP 711
+                Tips: Drukas galviņas nomaiņas komplekts (Druckkopf Replacement Kit)
+                HS kods: 8517620003
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x2035_1453131_1.jpg</image>
+        </images>
+    </product>
 </products>
