@@ -280,4 +280,31 @@
             <image>https://evelatusb2b.lv/images/x202_1544477_1.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Western Digital</manufacturer>
+        <sku>WDS200T4G0E</sku>
+        <ean>0718037904610</ean>
+        <title>Cietais disks SSD Western Digital M.2 2TB WD Green SN3000 NVMe PCIe 4.0 x 4</title>
+        <category-name><![CDATA[Datortehnika un konsoles / Datoru piederumi / Cietais disks SSD]]></category-name>
+        <price>193.87</price>
+        <stock>40</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 0718037904610
+                Ražotāja kods: WDS200T4G0E
+                Ražotājs: Western Digital
+                Modelis: WD Green SN3000
+                Forma faktors: M.2
+                Ietilpība: 2TB
+                Interfeiss: NVMe PCIe 4.0 x 4
+                HS kods: 8517620003
+            ]]>
+        </description>
+        <images>
+        </images>
+    </product>
 </products>
