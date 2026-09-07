@@ -148,4 +148,35 @@
             <image>https://evelatusb2b.lv/images/1620.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Evelatus</manufacturer>
+        <sku>EVE01353</sku>
+        <ean>4752192001353</ean>
+        <title>Aizsargstikls Evelatus Samsung Galaxy Note 9 N960 3D Case Friendly (Edge Glue)</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Aizsargstikli un plēves / Aizsargstikls]]></category-name>
+        <price>4.02</price>
+        <stock>88</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 4752192001353
+                Ražotāja kods: EVE01353
+                Ražotājs: Evelatus
+                Saderīgs ar: Samsung Note 9
+                Tips: 3D Case Friendly (Edge Glue)
+                Iepakojuma izmēri: 20.1 x 10.1 x 1.3 cm
+                Bruto svars: 53 g
+                Neto svars: 21 g
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/4689_3357.jpg</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=4689_1090.jpg&amp;item_id=4689&amp;width=orig</image>
+            <image>https://evelatusb2b.lv/sys_/img_opt.php?file=4689_5171.jpg&amp;item_id=4689&amp;width=orig</image>
+        </images>
+    </product>
 </products>
