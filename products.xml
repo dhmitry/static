@@ -308,4 +308,31 @@
             <image>https://capital.lv/media/catalog/product/cache/7eb369f27775f2db92648609527c34e5/0/1/0165b46b-bb86-4f3d-a45f-792f730362af.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Roborock</manufacturer>
+        <sku>S2052-00</sku>
+        <ean>6936905905291</ean>
+        <title>Putekļusūcējs Roborock VACUUM CLEANER ROBOT SAROS 20/BLACK S2052-00</title>
+        <category-name><![CDATA[Mazā sadzīves tehnika / Putekļusūcējs / Putekļusūcējs]]></category-name>
+        <price>1338.00</price>
+        <stock>50</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 6936905905291
+                Ražotāja kods: S2052-00
+                Ražotājs: Roborock
+                Modelis: Saros 20
+                Tips: Robota putekļusūcējs
+                Krāsa: Black
+                HS kods: 8450900000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x1323_1821083_1.jpg</image>
+        </images>
+    </product>
 </products>
