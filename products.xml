@@ -224,4 +224,33 @@
             <image>https://evelatusb2b.lv/sys_/img_opt.php?file=15218_6801.jpg&amp;item_id=15218&amp;width=orig</image>
         </images>
     </product>
+    <product>
+        <manufacturer>AJAX</manufacturer>
+        <sku>76019</sku>
+        <ean>4823114047824</ean>
+        <title>IP kameras AJAX NET CAMERA 5MP DOMECAM MINI/2.8MM BLACK 76019</title>
+        <category-name><![CDATA[Video novērošanas iekārtas / IP kameras]]></category-name>
+        <price>145.00</price>
+        <stock>1</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 4823114047824
+                Ražotāja kods: 76019
+                Ražotājs: AJAX
+                Tips: IP kamera
+                Modelis: DomeCam Mini
+                Izšķirtspēja: 5MP
+                Objektīvs: 2.8mm
+                Krāsa: Black
+                HS kods: 8525893000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x1323_870495_1.jpg</image>
+        </images>
+    </product>
 </products>
