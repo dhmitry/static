@@ -121,4 +121,30 @@
             <image>https://new.ksd-images.lt/display?path=aikido/store/d11537346769d504310059759ae7e782.jpg&amp;op=noop</image>
         </images>
     </product>
+    <product>
+        <manufacturer>Nokia</manufacturer>
+        <sku>3591</sku>
+        <title>Akumulators Nokia 6303/5220/5220XM/6730c/3720c/C5/C5-01/X5-00/C5-02/C6-01/C3-01/6303ci/C5-00/ BL-5CT 1050mAh Li-ion</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Akumulators]]></category-name>
+        <price>4.50</price>
+        <stock>6</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 4000000518846
+                Ražotājs: Nokia
+                Saderīgie modeļi: 3720 Classic, 5220 XpressMusic, 6303 Classic, 6303i Classic, 6730 Classic, C3-01 Gold Edition, C3-01 Touch and Type, C5, C5-00 5MP, C6-01
+                Baterijas modelis: BL-5CT
+                Ietilpība: 1050mAh
+                Tips: Li-ion
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/1620.jpg</image>
+        </images>
+    </product>
 </products>
