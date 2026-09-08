@@ -490,6 +490,12 @@
                 HS kods: 8517790000
             ]]>
         </description>
+        <features>
+            <package_size_height_cm>15.500</package_size_height_cm>
+            <package_size_width_cm>9.000</package_size_width_cm>
+            <package_size_dept_cm>0.500</package_size_dept_cm>
+            <weight_gross_g>22</weight_gross_g>
+        </features>
         <images>
             <image>https://evelatusb2b.lv/images/x1772_942846_1.jpg</image>
         </images>
