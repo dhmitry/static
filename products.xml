@@ -461,4 +461,37 @@
             <image>https://evelatusb2b.lv/images/28088_4050.jpg</image>
         </images>
     </product>
+    <product>
+        <manufacturer>3MK</manufacturer>
+        <sku>3mk Watch Protection FlexibleGla</sku>
+        <ean>5903108528191</ean>
+        <title>Aizsargstikls 3MK - Garmin Fenix 7 Pro Solar - 3mk Watch Protection v. FlexibleGlass Lite</title>
+        <category-name><![CDATA[Mobilo telefonu aksesuāri / Aizsargstikli un plēves / Aizsargstikls]]></category-name>
+        <price>4.16</price>
+        <stock>36</stock>
+        <material>
+            <outer_material></outer_material>
+            <lining></lining>
+        </material>
+        <description>
+            <![CDATA[
+                EAN: 5903108528191
+                Ražotāja kods: 3mk Watch Protection FlexibleGla
+                Ražotājs: 3MK
+                Saderīgs ar: Garmin Fenix 7 Pro Solar
+                Tips: Aizsargplēve (Watch Protection FlexibleGlass Lite)
+                Ekrāna pastiprināšana: 250%
+                Biezums: 0.20mm
+                Garantija: 12 mēneši
+                Komplektā: 3 Watch Protection, 3 mikrošķiedras drāniņas, 3 mitrās salvetes (komplekti plakanajiem displejiem), 3 uzstādīšanas gēli (komplekti noapaļotiem displejiem)
+                Sertifikācija: RoHS, PZH
+                Iepakojuma izmēri: 15.5 x 9.0 x 0.5 cm
+                Bruto svars: 22 g
+                HS kods: 8517790000
+            ]]>
+        </description>
+        <images>
+            <image>https://evelatusb2b.lv/images/x1772_942846_1.jpg</image>
+        </images>
+    </product>
 </products>
